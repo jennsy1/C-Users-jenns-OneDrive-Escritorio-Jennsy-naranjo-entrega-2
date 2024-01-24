@@ -1,16 +1,3 @@
- /*class Cotizador {
-    constructor(inmueble, valorFijo, M2) {
-        this.inmueble = inmueble
-        this.valorFijo = valorFijo
-        this.M2 = M2 
-    }
-
-    
-    obtenerCotizacion() {
-        return this.inmueble.factor * this.valorFijo * this.M2
-    } 
-}
-
 /*class Cotizador {
     constructor(vehiculo, valor, año) {
         this.vehiculo = vehiculo
